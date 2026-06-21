@@ -53,7 +53,7 @@ Root Mean Squared Error (RMSE)
 R² Score
 🚀 How to Run the Project
 1. Clone the repository
-git clone https://github.com/your-username/zomato-rating-prediction.git
+git clone https://github.com/Manoranjan16/zomato-rating-prediction.git
 cd zomato-rating-prediction
 2. Install dependencies
 pip install -r requirements.txt
@@ -61,15 +61,6 @@ pip install -r requirements.txt
 jupyter notebook
 4. (Optional) Run Web App
 streamlit run app.py
-📌 Project Structure
-├── data/
-├── notebooks/
-├── models/
-│   ├── model.pkl
-├── app.py
-├── requirements.txt
-├── README.md
-📈 Results Summary
 
 The model successfully captures key patterns influencing restaurant ratings. Ensemble models such as Random Forest and Gradient Boosting showed superior performance compared to baseline regression models.
 
